@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Learn React",
+      "done": true,
+      "date": "2022-07-08T08:21:15.490Z",
+      "color": "green"
+    },
+    {
+      "id": 2,
+      "text": "Learn Next js",
+      "done": false,
+      "date": "2022-07-08T08:21:15.490Z",
+      "color": "red"
+    }
+  ]
+}
