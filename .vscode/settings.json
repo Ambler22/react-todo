@@ -1,0 +1,27 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports": true
+  },
+  "editor.tabSize": 2,
+  "editor.rulers": [90],
+  "editor.bracketPairColorization.enabled": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.minimap.enabled": false,
+  "explorer.openEditors.visible": 0,
+  "files.associations": {
+    "*.js": "javascriptreact",
+    ".env": "shellscript",
+    ".env.*": "shellscript"
+  },
+  "prettier.semi": false,
+  "prettier.arrowParens": "avoid",
+  "js/ts.implicitProjectConfig.checkJs": false,
+  "editor.inlayHints.enabled": true,
+  "editor.inlayHints.padding": true,
+  "javascript.inlayHints.parameterNames.enabled": "literals",
+  "javascript.inlayHints.variableTypes.enabled": true
+}
